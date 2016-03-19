@@ -1,3 +1,4 @@
-var message = "Hello"
-alert(message)
-alert("bonjour le monde")
+var messageAn = "Hello"
+var messageFr = "Bonjour"
+alert(messageAn)
+alert(messageFr)
